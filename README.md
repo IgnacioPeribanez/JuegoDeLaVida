@@ -1,2 +1,2 @@
-# JuegoDeLaVida
-He programado el famoso Juego de la vida de John Horton Conway basado en Java.
+Práctica 2: El Juego de la Vida
+
